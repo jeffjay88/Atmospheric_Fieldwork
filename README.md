@@ -4,7 +4,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffjay88/Atmospheric_Fieldwork/blob/master/Day-1.ipynb)
 
 
-
 This is the repository for the <b>Atmospheric Fieldwork Class</b> on <b>Working with Meteorological Data In Python [Focus on Xarray]</b>. 
 For ease, participants can launch the binder application to access the host of packages used. Beyond the class, participants are advised to download and install 
 the Anaconda Navigator (https://www.anaconda.com/) and use locally on their PC. 
