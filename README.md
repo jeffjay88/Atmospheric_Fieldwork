@@ -1,7 +1,7 @@
 # Atmospheric_Fieldwork
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffjay88/Atmospheric_Fieldwork/master?urlpath=Day-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffjay88/Atmospheric_Fieldwork/blob/master?urlpath=Day-1.ipynb)
 
 
 This is the repository for the <b>Atmospheric Fieldwork Class</b> on <b>Working with Meteorological Data In Python [Focus on Xarray]</b>. 
