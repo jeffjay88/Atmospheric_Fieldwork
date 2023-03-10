@@ -1,7 +1,7 @@
 # Atmospheric_Fieldwork
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffjay88/Atmospheric_Fieldwork/blob/master?labpath=Day-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffjay88/Atmospheric_Fieldwork/blob/master/Day-1.ipynb)
 
 
 
